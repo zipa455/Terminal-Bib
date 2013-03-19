@@ -1,0 +1,13 @@
+﻿<Page x:Class="WpfApplication1.query"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" Title="query" >
+
+    
+        <Grid Name="grid2" Background="Aqua" >
+            <TextBlock Height="132" HorizontalAlignment="Center" Margin="0" Name="textBlock1" Text="Загрузка" VerticalAlignment="Center" Width="477" TextWrapping="Wrap" FontSize="28" FontWeight="Bold" TextTrimming="None" TextAlignment="Center" Background="Lime" Foreground="#FF241E12" FlowDirection="LeftToRight" />
+        </Grid>
+    
+</Page>
